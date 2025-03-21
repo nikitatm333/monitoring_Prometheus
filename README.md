@@ -33,7 +33,7 @@ services:
 nano prometheus.yml
 ```
 
-### Содержимое docker-compose.yml
+### Содержимое prometheus.yml
 
 ```
 global:
